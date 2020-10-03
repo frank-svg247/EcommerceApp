@@ -1,5 +1,5 @@
 # EcommerceApp
 Ecommerce application using Flutter Framework
 
-#Application Screenshots
-![Alt text](/screenshots/img.jpg?raw=true "Optional Title")
+# Application Screenshots
+![Alt text](/Screenshots/Home_Screen.PNG.jpg?raw=true "Optional Title")
